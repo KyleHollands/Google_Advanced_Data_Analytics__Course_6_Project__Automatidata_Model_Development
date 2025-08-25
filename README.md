@@ -1,4 +1,4 @@
-# Google_Advanced_Data_Analytics__Course_6_Project__Automatidata_Model_Development
+# Tree-Based Model for Predicting Customer Tipping Behaviour
 
 ## Project Overview
 This project aimed to predict customer tipping behavior. The initial goal of predicting whether a customer would tip at all was deemed unethical, so the focus shifted to identifying generous tippers. The final Random Forest model achieved 71% accuracy and an F1 score of 0.75, effectively handling the imbalanced dataset. Key predictive features included VendorID_2, predicted_fare, passenger_count, mean_distance, and mean_duration.
